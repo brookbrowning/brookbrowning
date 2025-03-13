@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi there! 👋
+- 😄 Pronouns: he/they 
+- 🦫 I'm currently a CS Student at Oregon State University
+- 🌊 I'm curious about machine learning and ocean robotics
+  
+- 🌱 I'm working on some personal projects using Python
+### Looking forward to collaborating with you!
 <!--
 **brookbrowning/brookbrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
